@@ -1,0 +1,212 @@
+update_list	126890	lock=false
+create_concept	The superpowered ability to fly.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Flight	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_term	Levitation	en	ALTERNATE	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to lift a super-human amount of weight.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Super Strength	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to turn invisible.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Invisibility	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to move at super-human speed.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Super Speed	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to emit powerful lasers from the eyes.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Laser Vision	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_term	Heat Vision	en	ALTERNATE	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to withstand blows of tremendous force without any harm.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Invulnerability	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to read minds.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Telepathy	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to move objects with the mind.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Telekenisis	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to spontaneously generate ice.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Ice Generation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to spontaneously generate fire.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Fire Generation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to spontaneously generate wind.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Wind Generation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to change the shape of one's body to resemble other objects or people.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Shape Shifting	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to rapidly heal from illness or injury.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Healing Ability	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_term	Regeneration	en	ALTERNATE	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to generate a force field around oneself or others.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Force Field	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_term	Energy Field	en	ALTERNATE	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to control the weather.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Weather Control	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to pass one solid object through another solid object without damaging either.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Phasing	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to instantaneously pass from one location to another.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Teleportation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to speack to animals.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Zoolingualism	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	"The superpowered ability to scale walls without any type of hand or foot holds, or equipment."
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Wall-Crawling	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to see future events.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Precognition	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to travel through time to the past or future.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Time Travel	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	"The superpowered ability to telepathically move stone or dirt, often in large quantities."
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Earth Manipulation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to spontaneously generate electricity.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Electricity Power	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to telepathically manipulte magnetic metals.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Magnetism Manipulation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to generate super-humanly powerful sound waves.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Sound Generation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to take control of someone's mind.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Possession	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to change a person's memory.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Memory Manipulation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to learn things about the past or future of an object by touching it.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Psychometry	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to generate acid.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Acid Generation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	"The superpowered ability to stretch one's bones, muscles, and other tissues."
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Elasticity	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	"The superpowered ability to grow to superhuman size, and return to normal size."
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Growth	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	"The superpowered ability to shrink one's body to sub-human size, and return to normal size."
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Shrinking	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	"The superpowered ability to duplicate one's body, and reabsorb the duplicates."
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Self-duplication	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to absorb power from others bodies.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Power Absorbtion	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to negate other's super powers.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Power Negation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	"The superpowered ability to manipulate one's own or others luck, for better or worse."
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Luck Manipulation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to generate illusions of reality.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Illusion	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to create connections with alternate dimensions.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Dimension Manipulation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to remain in one place regardless of external forces.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Immutability	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to change ones exterior appearance to blend with the environment.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Camouflage	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to breath under water.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Aquatic Resperation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to move with super-human agility.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Enhanced Agility	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to bend ones joints and limbs beyond normal human ability.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Enhanced Dexterity	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to view the infrared spectrum of light.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Infrared Vision	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to view x-rays.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	X-Ray Vision	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to view farther and in higher resolution than normal human ability.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Telescopic Vision	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	A superpower that increases a person's intelligence beyond normal human limits.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Enhanced Intelligence	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to hypnotize other human beings.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Hypnosis	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_term	Telepathic control	en	ALTERNATE	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to grow or control plant life.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Plant Manipulation	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+create_concept	The superpowered ability to access supernatural powers to perform work or gain knowledge.
+update_concept	$conceptId	attrs=1:DESCRIPTOR
+create_term	Magic	en	OFFICIAL	$conceptId
+update_list	126890	terms=$termId
+update_list	126890	lock=true
